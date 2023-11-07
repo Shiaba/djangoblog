@@ -1,1 +1,1 @@
-web gunicorn shiaba-djangoblog.wsgi
+web gunicorn codestar.wsgi
